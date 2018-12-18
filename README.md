@@ -1,4 +1,4 @@
-# RozpoznawaniePlci
+# SexRecognizer
 Zadanie na KCK, sygnały
 
 - Metoda HPS (Harmonic Product Spectrum)
