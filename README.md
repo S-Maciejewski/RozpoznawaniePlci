@@ -2,7 +2,7 @@
 Zadanie na KCK, sygnały
 
 - Metoda HPS (Harmonic Product Spectrum)
-- Metoda DEC2 i DEC3 (Decimate) - można wymnożyć sygnały (?)
+- Metoda DEC2 i DEC3 (Decimate) - można wymnożyć sygnały, żeby łatwo znaleźć częstotliwośc podstawową
 
 Szukanie lokalnych maksimów w wielokrotnościach np. 125 Hz
 
