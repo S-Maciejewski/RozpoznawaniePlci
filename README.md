@@ -11,4 +11,6 @@ Na każdej kopii sygnału kolejno wywołać DEC2, DEC3, ... i potem wymnożyć.
 
 Współczynnik autokorelacji 
 
+Okno Kaisera (mnoży się okno przez wynik fft)
+
 Do 3 stycznia
